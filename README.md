@@ -48,7 +48,12 @@ This rule detects TCP connection attempts to destination port `4444`. It monitor
 
 ---
 
-## Connect with Me
+## Contact
 
-- **LinkedIn:** Add your LinkedIn profile link here
-- **GitHub:** Add your GitHub profile link here
+**Mohamed Gbreil (0xgbreil)**
+
+- GitHub: https://github.com/0xgbreil
+- LinkedIn: https://www.linkedin.com/in/0xgbreil/
+- X (Twitter): https://x.com/0xgbreil
+
+---

@@ -16,7 +16,7 @@ This rule detects ICMP Echo Request packets, commonly generated when using the `
 
 ### Demo
 
-Add your ICMP detection demo video here.
+[Watch ICMP Detection Demo](./demos/1.mp4)
 
 ---
 
@@ -30,7 +30,7 @@ This rule detects HTTP GET requests sent to a web server. It inspects the HTTP m
 
 ### Demo
 
-Add your HTTP detection demo video here.
+[Watch HTTP Detection Demo](./demos/2.mp4)
 
 ---
 
@@ -44,7 +44,7 @@ This rule detects TCP connection attempts to destination port `4444`. It monitor
 
 ### Demo
 
-Add your Port 4444 detection demo video here.
+[Watch Port 4444 Detection Demo](./demos/3.mp4)
 
 ---
 
